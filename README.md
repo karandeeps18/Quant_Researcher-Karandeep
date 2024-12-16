@@ -1,4 +1,4 @@
-# Quant_Researcher-Karandeep
+# Quant_KD
 
 ## 📂 Projects
 Here’s a breakdown of my quantitative research projects:
