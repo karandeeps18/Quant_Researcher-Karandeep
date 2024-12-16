@@ -3,7 +3,7 @@
 <!-- Main Section -->
 <div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
 
-# **Your Name**  
+# **Karandeep Sonewane**  
 ![Profile Image](profile-image-url.png) <!-- Replace with your image URL -->
 
 ### Welcome to my Quant Research Portfolio  
