@@ -1,26 +1,65 @@
 # Quant_KD
 
-## 📂 Projects
-Here’s a breakdown of my quantitative research projects:
+<!-- Main Section -->
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
 
-### 1. [Project Name](link-to-project-folder)
-**Description**: A brief description of the project goal.
-- **Key Features**:
-  - Bullet point 1
-  - Bullet point 2
-- **Technologies Used**: Python, Pandas, Scikit-Learn
+# **Your Name**  
+![Profile Image](profile-image-url.png) <!-- Replace with your image URL -->
 
-### 2. [Project Name](link-to-project-folder)
-**Description**: Another project description.
-- **Key Features**:
-  - Bullet point 1
-  - Bullet point 2
-- **Technologies Used**: R, Shiny, NumPy
+### Welcome to my Quant Research Portfolio  
+Explore my work in financial analysis, statistical modeling, and machine learning.
 
-## 📈 Skills and Tools
-**Languages**: Python, R, C++  
-**Libraries**: Pandas, NumPy, Matplotlib  
-**Finance Tools**: Bloomberg API, QuantLib  
+</div>
+
+---
+
+## **📂 Projects**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Project 1 -->
+<div style="background-color: #ffdddd; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 1</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+<!-- Project 2 -->
+<div style="background-color: #ddffdd; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 2</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+<!-- Project 3 -->
+<div style="background-color: #ddddff; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 3</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+<!-- Project 4 -->
+<div style="background-color: #ffffdd; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 4</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+<!-- Project 5 -->
+<div style="background-color: #ddffff; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 5</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+<!-- Project 6 -->
+<div style="background-color: #ffddff; padding: 20px; border-radius: 10px; width: 300px; text-align: center;">
+  <h3>Project 6</h3>
+  <p>A brief description of the project.</p>
+  <a href="project-link" style="text-decoration: none; color: black;">View Project</a>
+</div>
+
+</div>
+
 
 ## 👨‍💻 About Me
 I am a Quantitative Researcher passionate about solving financial challenges using advanced data analysis and machine learning.
